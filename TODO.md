@@ -18,14 +18,14 @@
 - [x] Update main.py: Add logging for trades and errors
 
 ## Testing and Deployment Phase
-- [ ] Test the bot in safe mode (log signals without executing trades)
-- [ ] Run the script and monitor logs for issues
-- [ ] Refine strategy based on testing results
+- [x] Test the bot in safe mode (log signals without executing trades)
+- [x] Run the script and monitor logs for issues
+- [x] Refine strategy based on testing results
 
 ## Chat Integration Phase
 - [x] Install python-telegram-bot library
 - [x] Add TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID to .env file
 - [x] Update main.py: Add Telegram bot initialization and message sending function
 - [x] Update main.py: Integrate Telegram notifications for trade executions, P/L calculations, and safe mode signals
-- [ ] Test Telegram notifications in safe mode
-- [ ] Enable live trading with Telegram notifications
+- [x] Test Telegram notifications in safe mode
+- [x] Enable live trading with Telegram notifications
